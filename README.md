@@ -21,3 +21,6 @@ Open a terminal/command prompt in the folder where the script is located.
 "python CG_file.py"
 
 The app will open, and you can start entering usernames and infractions.
+
+Visual Studio Download Tutorial:
+https://www.youtube.com/watch?v=YSH21p8MPSg
