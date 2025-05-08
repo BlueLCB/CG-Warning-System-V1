@@ -24,3 +24,12 @@ The app will open, and you can start entering usernames and infractions.
 
 Visual Studio Download Tutorial:
 https://www.youtube.com/watch?v=YSH21p8MPSg
+
+
+How to run the Script in VS CODE:
+- Open VS Code.
+- Click File > Open File, then select the script you downloaded.
+- Click the green Run ▶ button at the top-right.
+- If asked, select the Python interpreter (choose the one with Python 3).
+
+✅ Your app should now open and be ready to use!
