@@ -33,5 +33,7 @@ How to run the Script in VS CODE:
 
 * Showcase Video attached below.
 * Feel free to DM me on discord (bluelcb) if there are any issues.
-https://github.com/user-attachments/assets/f15c643a-f2ba-453b-8000-220c3d63a9d1
+
+
+https://github.com/user-attachments/assets/a283a981-a595-469a-acec-47a4a67110c8
 
