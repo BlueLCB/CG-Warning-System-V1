@@ -33,3 +33,8 @@ How to run the Script in VS CODE:
 - If asked, select the Python interpreter (choose the one with Python 3).
 
 ✅ Your app should now open and be ready to use!
+
+* Showcase Video attached below.
+
+https://github.com/user-attachments/assets/f15c643a-f2ba-453b-8000-220c3d63a9d1
+
