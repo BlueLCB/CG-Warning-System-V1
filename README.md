@@ -13,14 +13,11 @@ Requirements:
 - Tkinter (usually comes pre-installed with Python)
 https://code.visualstudio.com/
 
-How to Use:
-Download the Script: Download CG_file.py from this repository.
-Run the Script:
-Open a terminal/command prompt in the folder where the script is located.
+How to use:
+- Go to Downloads and open the folder CG-Warning-System-V1-main.
+- Inside, find the folder called Tracker.
+- Right-click on Tracker and select Open with Python.
 
-"python CG_file.py"
-
-The app will open, and you can start entering usernames and infractions.
 
 Visual Studio Download Tutorial:
 https://www.youtube.com/watch?v=YSH21p8MPSg
